@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiKeyAuthentication", "ApiKeyAuthentication.csproj", "{166B7F65-41C7-483C-8904-B00F071BFA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166B7F65-41C7-483C-8904-B00F071BFA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166B7F65-41C7-483C-8904-B00F071BFA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166B7F65-41C7-483C-8904-B00F071BFA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166B7F65-41C7-483C-8904-B00F071BFA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD60212A-AC4F-468D-9987-6D2A92158261}
+	EndGlobalSection
+EndGlobal
